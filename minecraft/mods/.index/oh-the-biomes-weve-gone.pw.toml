@@ -1,0 +1,37 @@
+filename = 'Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar'
+name = "Oh The Biomes We've Gone"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.0-Forge'
+
+[download]
+hash = '475063a73e381b8512126ae511e2642d7a67f00447695ac65c15a269c99dc05f83c5c12eaa84bcd1eb15dcface2dc5b42af355cdbabbe6b32dd6b621ca226fef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NTi7d3Xc/versions/8L5cwpjz/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar'
+
+[update.modrinth]
+mod-id = 'NTi7d3Xc'
+version = '8L5cwpjz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ziOp6EO8'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6AQIaxuO'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kkmrDlKT'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'g8NOG5OR'
+type = 'REQUIRED'

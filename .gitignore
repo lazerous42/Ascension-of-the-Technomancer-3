@@ -1,0 +1,11 @@
+# Ignore local runtime folders
+minecraft/.mixin.out/
+minecraft/logs/
+minecraft/screenshots/
+minecraft/saves/
+minecraft/resourcepacks/
+minecraft/shaderpacks/
+
+# Ignore Prism/MultiMC local launcher metadata if applicable
+minecraft/usercache.json
+minecraft/usernamecache.json
