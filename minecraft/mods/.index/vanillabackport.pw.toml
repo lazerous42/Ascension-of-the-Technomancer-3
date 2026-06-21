@@ -1,0 +1,21 @@
+filename = 'VanillaBackport-forge-1.20.1-1.1.7.10.jar'
+name = 'Vanilla Backport'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.7.10'
+
+[download]
+hash = 'f07e983096ae97bf160b0bdcc6034d4785fe78218c2858d9154b2abab291e9552d1f9f578eed84eb7dc174b969a8611d9a2ac840230d81b601e30f7271dad10a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/u8YPiN39/VanillaBackport-forge-1.20.1-1.1.7.10.jar'
+
+[update.modrinth]
+mod-id = '6xwxDTgf'
+version = 'u8YPiN39'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'i6fiqm5y'
+type = 'REQUIRED'

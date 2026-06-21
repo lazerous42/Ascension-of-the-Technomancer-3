@@ -67,6 +67,9 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
