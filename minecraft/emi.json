@@ -1,0 +1,16 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:splash_potion{Potion:\"minecraft:long_night_vision\"}",
+    "item:alexscaves:jelly_bean{Potion:\"minecraft:long_night_vision\"}",
+    "item:minecraft:splash_potion{Potion:\"minecraft:night_vision\"}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

@@ -1,11 +1,18 @@
 # Ignore local runtime folders
 minecraft/.mixin.out/
+minecraft/.probe/
+minecraft/.vscode/
+minecraft/cache/
+minecraft/crash-reports/
+minecraft/modernfix/
+minecraft/local/ftbchunks
 minecraft/logs/
-minecraft/screenshots/
-minecraft/saves/
 minecraft/resourcepacks/
+minecraft/screenshots/
 minecraft/shaderpacks/
+minecraft/saves/
 
 # Ignore Prism/MultiMC local launcher metadata if applicable
 minecraft/usercache.json
 minecraft/usernamecache.json
+minecraft/rhino.local.properties
