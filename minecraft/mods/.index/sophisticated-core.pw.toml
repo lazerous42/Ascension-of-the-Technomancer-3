@@ -1,0 +1,18 @@
+filename = 'sophisticatedcore-1.20.1-1.3.55.2031.jar'
+name = 'Sophisticated Core'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.3.55.2031'
+
+[download]
+hash = '81569ee6b6570021ce3aaab892cb8f90dcee2b61d1916161c2dd5b08dde4e6a23000896386562c420fafacdb0d063b63962c13fe16bae015f0b94d14c1b3960d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nmoqTijg/versions/bu49Ey12/sophisticatedcore-1.20.1-1.3.55.2031.jar'
+
+[update.modrinth]
+mod-id = 'nmoqTijg'
+version = 'bu49Ey12'
