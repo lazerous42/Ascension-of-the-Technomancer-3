@@ -1,25 +1,25 @@
-filename = 'kubejs-create-forge-2001.3.0-build.8.jar'
-name = 'KubeJS Create'
-side = ''
+filename = 'Botania-1.20.1-453-FORGE.jar'
+name = 'Botania'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'KubeJS Create Forge 2001.3.0-build.8'
+x-prismlauncher-version-number = 'Botania-1.20.1-453-FORGE.jar'
 
 [download]
-hash = 'cbeb6643d1cea979a7e01c87cfb08b9210a1c393'
+hash = '38e2edbf0fa91c573cbbbf3f8bb88a07e220aa8d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6265498
-project-id = 429371
+file-id = 8138523
+project-id = 225643
 
 [[x-prismlauncher-dependencies]]
-addonId = '328085'
+addonId = '306770'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '238086'
+addonId = '309927'
 type = 'REQUIRED'
