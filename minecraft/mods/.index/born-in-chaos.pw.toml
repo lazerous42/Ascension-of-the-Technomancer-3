@@ -1,33 +1,33 @@
-filename = 'appliedpneumatics-1.20.1-forge-1.0.8.jar'
-name = 'Applied Pneumatics'
+filename = 'born_in_chaos_[Forge]1.20.1_1.7.5.jar'
+name = 'Born in Chaos'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Applied Pneumatics 1.0.8'
+x-prismlauncher-version-number = 'born_in_chaos_[Forge]1.20.1_1.7.5.jar'
 
 [download]
-hash = 'ddcfeb1a4cf2c2f07601516d0c1cfdd8f9c5a796'
+hash = '4d616e1ccef4c55e14b04ca63228d826f4fdda5e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7723701
-project-id = 1355087
+file-id = 7917933
+project-id = 686437
 
 [[x-prismlauncher-dependencies]]
-addonId = '223794'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '281849'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '622112'
+addonId = '639842'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '892005'
+addonId = '240630'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
