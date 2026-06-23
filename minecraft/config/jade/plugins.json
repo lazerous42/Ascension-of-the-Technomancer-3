@@ -51,12 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -78,9 +72,6 @@
   "immersiveengineering": {
     "multiblock_icon": true
   },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -92,19 +83,6 @@
   "expatternprovider": {
     "jade_chamber": true,
     "jade_wireless": true
-  },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "raider_leader": true,
-    "hostile": true,
-    "servant_mode": true,
-    "capture_mode": true,
-    "zombie_villager": true,
-    "villager_profession": true,
-    "train_to": true,
-    "summon_lifespan": true,
-    "trainable": true
   },
   "functionalstorage": {
     "armory": true
@@ -120,5 +98,30 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "goety": {
+    "block_owner": true,
+    "soul_energy": true,
+    "raider_leader": true,
+    "hostile": true,
+    "servant_mode": true,
+    "capture_mode": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "train_to": true,
+    "summon_lifespan": true,
+    "trainable": true
   }
 }

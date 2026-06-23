@@ -1,0 +1,29 @@
+filename = 'map_atlases-1.20-6.0.20.jar'
+name = 'Map Atlases [Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'map_atlases-1.20-6.0.20.jar'
+
+[download]
+hash = 'd20b4bde9d5c75eaa99c430aff78840ecb145fb1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8146282
+project-id = 519759
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'
