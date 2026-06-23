@@ -11,6 +11,9 @@
   "ae2:power_storage": null,
   "ae2:server_data": null,
   "ars_nouveau:mob_jar": null,
+  "expatternprovider:jade_chamber": null,
+  "expatternprovider:jade_wireless": null,
+  "expatternprovider:tile_data": null,
   "functionalstorage:armory": null,
   "goety:block_owner": null,
   "goety:capture_mode": null,
@@ -85,5 +88,11 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "pneumaticcraft:camo": null,
+  "pneumaticcraft:entity": null,
+  "pneumaticcraft:pneumatic": null,
+  "pneumaticcraft:redstone": null,
+  "pneumaticcraft:semiblock": null,
+  "pneumaticcraft:tube_module": null
 }
