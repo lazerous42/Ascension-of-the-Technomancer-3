@@ -108,6 +108,9 @@
   "spawn": {
     "stickbug_as_item": true
   },
+  "betternether": {
+    "plant_growth": true
+  },
   "aether_redux": {
     "logicator": true
   },
