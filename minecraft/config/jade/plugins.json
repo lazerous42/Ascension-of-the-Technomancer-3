@@ -105,6 +105,12 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "spawn": {
+    "stickbug_as_item": true
+  },
+  "aether_redux": {
+    "logicator": true
+  },
   "twilightforest": {
     "quest_ram_wool": true
   },

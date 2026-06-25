@@ -1,18 +1,18 @@
-filename = 'modernfix-forge-5.27.51+mc1.20.1.jar'
-name = 'ModernFix'
-side = ''
+filename = 'spawn-4.0-1.20.1.jar'
+name = 'Spawn'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'modernfix-forge-5.27.51+mc1.20.1.jar'
+x-prismlauncher-version-number = 'Spawn 4.0-1.20.1'
 
 [download]
-hash = '1f69aa3406e24c645d4b9df25c35a6e4deb66527'
+hash = '792a02f8ca568e1fce541c05d88533699157886a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8255312
-project-id = 790626
+file-id = 7972539
+project-id = 935694
