@@ -168,6 +168,13 @@
 			rotten = true
 			date = true
 
+		[types.wood_type.netherexp]
+			claret = true
+			smokestalk = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
 	[types.cake]
 
 		[types.cake.thermal]
@@ -431,6 +438,9 @@
 			stripped_post = true
 			ladder = true
 			vertical_slab = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
 
 	[entries.leaves_type]
 
