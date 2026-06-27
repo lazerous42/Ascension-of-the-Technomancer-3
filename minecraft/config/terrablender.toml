@@ -5,7 +5,7 @@ general = {}
 [generation_settings]
 	#The size of nether biome regions from each mod that uses TerraBlender.
 	#Range: 2-6
-	nether_region_size = 4
+	nether_region_size = 2
 	#The size of overworld biome regions from each mod that uses TerraBlender.
 	#Range: 2-6
 	overworld_region_size = 3
