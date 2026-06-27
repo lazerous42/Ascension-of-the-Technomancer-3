@@ -1,3 +1,6 @@
+# Ignore JAR archives
+*.jar
+
 # Ignore local runtime folders
 minecraft/.mixin.out/
 minecraft/.probe/
@@ -5,6 +8,7 @@ minecraft/.vscode/
 minecraft/cache/
 minecraft/crash-reports/
 minecraft/modernfix/
+minecraft/mods/*.jar
 minecraft/local/ftbchunks
 minecraft/logs/
 minecraft/resourcepacks/
