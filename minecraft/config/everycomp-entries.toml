@@ -175,6 +175,9 @@
 		[types.wood_type.cataclysm]
 			chorus = true
 
+		[types.wood_type.iceandfire]
+			dreadwood = true
+
 	[types.cake]
 
 		[types.cake.thermal]
@@ -394,6 +397,9 @@
 
 		[types.leaves_type.spawn]
 			date = true
+
+		[types.leaves_type.iceandfire]
+			dreadwood = true
 
 #Disables specific entries
 [entries]

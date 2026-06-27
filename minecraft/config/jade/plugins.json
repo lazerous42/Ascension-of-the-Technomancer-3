@@ -84,6 +84,10 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "iceandfire": {
+    "multipart": true,
+    "dragon": true
+  },
   "functionalstorage": {
     "armory": true
   },
