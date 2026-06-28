@@ -1,0 +1,25 @@
+filename = 'galosphere_spellbooks-1.1.2.jar'
+name = 'Galosphere: Spellbooks'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Galosphere Spellbooks 1.1.2'
+
+[download]
+hash = '13ac4b59da730b9e3466b91296ec016314dc5123'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7950901
+project-id = 1111928
+
+[[x-prismlauncher-dependencies]]
+addonId = '631098'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '855414'
+type = 'REQUIRED'

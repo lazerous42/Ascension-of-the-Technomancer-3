@@ -1,0 +1,25 @@
+filename = 'arts_and_crafts-forge-1.20.1-1.5.4.jar'
+name = 'Arts & Crafts'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'arts_and_crafts-forge-1.20.1-1.5.4.jar'
+
+[download]
+hash = '2651938053bfadb9846c174a12d546de5997a3b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8155599
+project-id = 1034791
+
+[[x-prismlauncher-dependencies]]
+addonId = '1203401'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1528197'
+type = 'OPTIONAL'

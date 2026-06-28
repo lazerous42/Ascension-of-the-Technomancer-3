@@ -1,0 +1,21 @@
+filename = 'legendarycreatures-1.20.1-1.1.2.1.jar'
+name = 'Legendary Creatures'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'legendarycreatures-1.20.1-1.1.2.1.jar'
+
+[download]
+hash = '8bc66a40a4d9f0346be43d054594c8a807602650'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8034486
+project-id = 837157
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

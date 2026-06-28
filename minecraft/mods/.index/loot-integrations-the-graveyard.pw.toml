@@ -1,0 +1,18 @@
+filename = 'lootintegrations_graveyard-1.1.jar'
+name = 'Loot Integrations: The Graveyard'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lootintegrations_graveyard-1.1.jar'
+
+[download]
+hash = '3cf27e80f14f3bf295273b04c09a5179486164d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6170555
+project-id = 1146846

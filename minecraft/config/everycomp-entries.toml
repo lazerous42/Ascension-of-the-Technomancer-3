@@ -178,6 +178,18 @@
 		[types.wood_type.iceandfire]
 			dreadwood = true
 
+		[types.wood_type.arts_and_crafts]
+			cork = true
+
+		[types.wood_type.dimdoors]
+			driftwood = true
+
+		[types.wood_type.unusual_prehistory]
+			ginkgo = true
+			lepidodendron = true
+			dryophyllum = true
+			metasequoia = true
+
 	[types.cake]
 
 		[types.cake.thermal]
@@ -195,6 +207,9 @@
 		[types.cake.createaddition]
 			chocolate_cake = true
 			honey_cake = true
+
+		[types.cake.galospheric_delight]
+			salted_caramel_cake = true
 
 	[types.leaves_type]
 
@@ -400,6 +415,22 @@
 
 		[types.leaves_type.iceandfire]
 			dreadwood = true
+
+		[types.leaves_type.galosphere]
+			opal = true
+
+		[types.leaves_type.arts_and_crafts]
+			cork = true
+
+		[types.leaves_type.dimdoors]
+			driftwood = true
+
+		[types.leaves_type.unusual_prehistory]
+			ginkgo = true
+			golden_ginkgo = true
+			lepidodendron = true
+			dryophyllum = true
+			metasequoia = true
 
 #Disables specific entries
 [entries]

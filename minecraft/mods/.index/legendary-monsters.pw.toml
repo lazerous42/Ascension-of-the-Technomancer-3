@@ -1,0 +1,18 @@
+filename = 'legendarymonsters-2.1.18 MC 1.20.1.jar'
+name = 'Legendary Monsters'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Legendary Monsters V 2.1.18 [MC 1.20.1]'
+
+[download]
+hash = 'dfd676796fd5c32850ebb887225d0c7620ab92c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8312236
+project-id = 944035

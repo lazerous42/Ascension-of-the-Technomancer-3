@@ -66,6 +66,10 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
+  },
   "pneumaticcraft": {
     "pneumatic": true,
     "tube_module": true,

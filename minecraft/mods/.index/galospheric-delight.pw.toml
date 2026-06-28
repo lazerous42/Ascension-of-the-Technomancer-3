@@ -1,0 +1,25 @@
+filename = 'galospheric_delight-1.20.1-6.42.jar'
+name = 'Galospheric Delight'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'galospheric_delight-1.20.1-6.42.jar'
+
+[download]
+hash = '59fbd9a156ba6668a6422d4111efdc1af9e1246e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6506068
+project-id = 1220884
+
+[[x-prismlauncher-dependencies]]
+addonId = '631098'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
