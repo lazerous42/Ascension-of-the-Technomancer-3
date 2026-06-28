@@ -1,0 +1,5 @@
+
+["Configs for Giddy Guinea Pigs!"]
+	#How often should guinea pigs spawn? Default is 6.
+	"Guinea Pig Spawn Weight" = 6
+

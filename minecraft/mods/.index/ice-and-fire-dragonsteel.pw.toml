@@ -1,0 +1,41 @@
+filename = 'dragonsteel-0.81.jar'
+name = 'Ice and Fire: Dragonsteel'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dragonsteel-0.81.jar'
+
+[download]
+hash = '5989fa2f9b5a67157912564379d7cad0f453d2ab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7765548
+project-id = 1282569
+
+[[x-prismlauncher-dependencies]]
+addonId = '243121'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1002304'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1259139'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '264231'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '606315'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1277786'
+type = 'OPTIONAL'

@@ -89,6 +89,11 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "dragnlivestock": {
+    "age_time": true,
+    "dry_time": true,
+    "o_tooltips": true
+  },
   "iceandfire": {
     "multipart": true,
     "dragon": true
