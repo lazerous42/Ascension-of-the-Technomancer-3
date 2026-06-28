@@ -1,0 +1,25 @@
+filename = 'bosses_delight-1.0.5.jar'
+name = 'Bosses Delight'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bosses_delight-1.0.5.jar'
+
+[download]
+hash = 'fb4f6a8a1b3c8bd170ac470cb4a92b7787a3cd83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8306916
+project-id = 1418659
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '941573'
+type = 'REQUIRED'
