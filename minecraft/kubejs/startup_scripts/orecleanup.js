@@ -7,8 +7,8 @@ WorldgenEvents.remove((event) => {
             'cgs:lead_ore',
             'iceandfire:deepslate_silver_ore',
             'iceandfire:silver_ore',
-            'occultism:ore_silver',
-            'occultism:ore_silver_deepslate'
+            'occultism:silver_ore',
+            'occultism:silver_ore_deepslate'
         ];
     });
     // This targets feature generation

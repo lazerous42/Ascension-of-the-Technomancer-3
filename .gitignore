@@ -17,6 +17,7 @@ minecraft/shaderpacks/
 minecraft/saves/
 
 # Ignore Prism/MultiMC local launcher metadata if applicable
+minecraft/emi.json
+minecraft/rhino.local.properties
 minecraft/usercache.json
 minecraft/usernamecache.json
-minecraft/rhino.local.properties

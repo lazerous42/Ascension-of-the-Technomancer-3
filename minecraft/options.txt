@@ -133,6 +133,8 @@ key_pneumaticcraft.chestplate.launcher:key.keyboard.c:CONTROL
 key_pneumaticcraft.boots.jet_boots:key.keyboard.space
 key_key.cofh.mode_change_increment:key.keyboard.v
 key_key.cofh.mode_change_decrement:key.keyboard.b
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
@@ -156,6 +158,9 @@ key_key.occultism.familiar.beholder_familiar:key.keyboard.unknown
 key_key.occultism.familiar.fairy_familiar:key.keyboard.unknown
 key_key.occultism.familiar.mummy_familiar:key.keyboard.unknown
 key_key.occultism.familiar.beaver_familiar:key.keyboard.unknown
+key_key.iceandfire_curios.phantasmal_boot_dash:key.keyboard.left.shift
+key_key.iceandfire_curios.elemental_boots_sprint:key.keyboard.left.shift
+key_key.iceandfire_curios.activate_warbanner:key.keyboard.r
 key_key.ad_astra.toggle_suit_flight:key.keyboard.v
 key_key.ad_astra.open_radio:key.keyboard.r
 key_key.hexerei.broomDescend:key.keyboard.left.control
@@ -190,11 +195,11 @@ key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.right.bracket
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.cataclysm.ability:key.keyboard.x
@@ -212,6 +217,10 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
+key_key.dragon_fireAttack:key.keyboard.r
+key_key.dragon_strike:key.keyboard.g
+key_key.dragon_down:key.keyboard.x
+key_key.dragon_change_view:key.keyboard.f7
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add

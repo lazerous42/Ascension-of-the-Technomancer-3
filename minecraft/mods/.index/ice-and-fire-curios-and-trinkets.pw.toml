@@ -1,0 +1,25 @@
+filename = 'iceandfire_curios-1.3.0-forge-1.20.1.jar'
+name = 'Ice and Fire: Curios and Trinkets'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Ice and Fire Curios 1.3.0 - Forge 1.20.1'
+
+[download]
+hash = '6f67b19eccd07ace267dcc2096000ed85090ea38'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7067833
+project-id = 1216450
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '264231'
+type = 'OPTIONAL'
