@@ -1,0 +1,41 @@
+filename = 'delightfulfixes-1.20.1-1.2.4a.jar'
+name = 'Delightful Fixes'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'delightfulfixes-1.20.1-1.2.4a.jar'
+
+[download]
+hash = '74e05d94386d4494c33347a85bf2c982cac74365'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8221881
+project-id = 1549032
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '662675'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807101'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '820977'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1288021'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1082132'
+type = 'OPTIONAL'

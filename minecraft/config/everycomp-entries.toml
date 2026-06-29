@@ -211,6 +211,12 @@
 		[types.cake.galospheric_delight]
 			salted_caramel_cake = true
 
+		[types.cake.twilightdelight]
+			aurora_cake = true
+			torchberry_cake = true
+			phytochemical_cake = true
+			glacier_cake = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomeswevegone]
@@ -431,6 +437,9 @@
 			lepidodendron = true
 			dryophyllum = true
 			metasequoia = true
+
+		[types.leaves_type.twilightdelight]
+			ironwood = true
 
 #Disables specific entries
 [entries]
