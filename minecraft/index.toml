@@ -2409,22 +2409,6 @@ file = "config/endermanoverhaul.jsonc"
 hash = "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003"
 
 [[files]]
-file = "config/endinglib/advanced/endinglib-client.toml"
-hash = "b39492020c374f1c3199c5c8f76208e546edf0b5dd78829e592ad4baacd385cd"
-
-[[files]]
-file = "config/endinglib/advanced/endinglib-common.toml"
-hash = "880fbda163c353014f33f4ad4e8087a1e32572d9304e5310faeedb29b642b3d5"
-
-[[files]]
-file = "config/endinglib/endinglib-command.toml"
-hash = "2f30c9c8b65f0949c8a4b08894a28116be981fe0900b6df93e477c68d33f9acc"
-
-[[files]]
-file = "config/endinglib/endinglib-common.toml"
-hash = "984a49428dce0fe75c8a1c872e45527ce923c2961d3367969b0bd6515866b107"
-
-[[files]]
 file = "config/endrem.toml"
 hash = "a7e392980ae50a17ca0075b0c44095b525d245c3920616d7893066b3f8b84d1f"
 
@@ -2559,10 +2543,6 @@ hash = "1ef4d92effc9ded283208293331ad1ec6e6b0164a81ae5f3173b869b7292a642"
 [[files]]
 file = "config/goety/goety.toml"
 hash = "9acc6cd5826dcd400c08d4bfa1daac82bbc543c2ee5cbd9c405182d360dc7a13"
-
-[[files]]
-file = "config/goety_revelation.toml"
-hash = "0aa8cc3117efdfdc8b6ecfe5e60f64f5c3458fec2c7ed927da9e6406ada44571"
 
 [[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
@@ -3143,34 +3123,6 @@ hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "8b12dd77cec183a31148005a13b26c9f6db4a265cae244de35688dde893327d3"
-
-[[files]]
-file = "config/revelationfix/goety-modify-client.toml"
-hash = "beed2d1f1504c62822465a70f3b506b66a3d5f2333384325af6f4b54869d2f70"
-
-[[files]]
-file = "config/revelationfix/goety-modify-common.toml"
-hash = "5e00779d499f84c6e27854baa034bccdda1f54093765233e1da598a2f46f1874"
-
-[[files]]
-file = "config/revelationfix/revelationfix-block.toml"
-hash = "ae507d5cfa4ae8651fc304d6dcd206a9662ef33d876c736648deba4428113643"
-
-[[files]]
-file = "config/revelationfix/revelationfix-client.toml"
-hash = "5e2c73453794c0a617e31bf5d7485046a487b242bc195e7cd433d020ad9e0903"
-
-[[files]]
-file = "config/revelationfix/revelationfix-common.toml"
-hash = "80406389951b56a63781016a18c17010ac0f6ca7f5cd88489858831facd1e8b2"
-
-[[files]]
-file = "config/revelationfix/revelationfix-item.toml"
-hash = "6989c4cefa0235003e34b7546020b2a53e396095aee967ba4a8a887d68f56914"
-
-[[files]]
-file = "config/revelationfix/revelationfix-modpack-common.toml"
-hash = "49dabb67e174ce6ae7d7d420cc7c03a4d074118e65d67d974f0e69ea1477669c"
 
 [[files]]
 file = "config/saturn-optimizations.toml"
@@ -11536,11 +11488,6 @@ hash = "5f532a628f918183f8412288ad655b63ebf745020d9ec3d0f8fa94533fcf44bb"
 metafile = true
 
 [[files]]
-file = "mods/.index/endinglibrary.pw.toml"
-hash = "75ec36fc34d4a6c7f271dd66b36b7916399a04bf3f695ff800bc4439749f5a2d"
-metafile = true
-
-[[files]]
 file = "mods/.index/endremastered.pw.toml"
 hash = "a32fa483d17dca9ca649d0521b0fb3681e3a96c01f45d681465e8c620c4540a4"
 metafile = true
@@ -12535,11 +12482,7 @@ file = "mods/EnderStorage-1.20.1-2.11.0.188-universal.jar"
 hash = "cb6d1c4594f61e89fab2b9e16daffecfab8bab25936684a2d75f2f0fe6eb028f"
 
 [[files]]
-file = "mods/EndingLibrary-1.20.1-2.1.19fix-all.jar.disabled"
-hash = "0e29af51dabd4e0ea8a315c1886e61f3abee62045f196eb6913d7f4dba6cdc34"
-
-[[files]]
-file = "mods/ExtendedAE-1.20-1.4.17-forge.jar.disabled"
+file = "mods/ExtendedAE-1.20-1.4.17-forge.jar"
 hash = "44939484cb98d3b69c67605487b7f74c2d9697570c57b16c64a898917868cbe0"
 
 [[files]]
@@ -12561,10 +12504,6 @@ hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
 [[files]]
 file = "mods/Glodium-1.20-1.5-forge.jar"
 hash = "fc419cb5bf511750c0a2da498b925f5122ac4f78617aca6630fe80abf0b6f460"
-
-[[files]]
-file = "mods/GoetyRevelation-2.3.3fix(1).jar.disabled"
-hash = "6266e71b978f39d95c16e58362c0f95f09bf8b98e915f31d310246f3fdc05c94"
 
 [[files]]
 file = "mods/Guinea_Pigs-1.20.1-1.2.jar"
@@ -13103,7 +13042,7 @@ file = "mods/endrem_forge-5.3.3-R-1.20.1.jar"
 hash = "19295ca4a798f2e813f359fa376f586bc57fadacd78b7e32440257f9f8bf2557"
 
 [[files]]
-file = "mods/entityculling-forge-1.10.5-mc1.20.1.jar.disabled"
+file = "mods/entityculling-forge-1.10.5-mc1.20.1.jar"
 hash = "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa"
 
 [[files]]
