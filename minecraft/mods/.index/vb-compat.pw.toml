@@ -1,21 +1,21 @@
-filename = 'vb-compat-2.0-1.20.1.jar'
-name = 'Vanilla Backport Compat'
-side = 'both'
+filename = 'vb-compat-2.1-1.20.1.jar'
+name = 'Van Backport Compat'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0'
+x-prismlauncher-version-number = 'vb-compat-2.1-1.20.1.jar'
 
 [download]
-hash = '6f9f90b1928fb59870b4a94f49514aa556b811d9afd48bc61b3a17a30d5af5ef124099d53d13dadec8a867696f72a6657a78342408d8688e20273943ee5c8a6c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jcYHXHwz/versions/LniaiSUA/vb-compat-2.0-1.20.1.jar'
+hash = '3de988d69dc5aa050ef6d97936d6cb8813217e33'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'jcYHXHwz'
-version = 'LniaiSUA'
+[update.curseforge]
+file-id = 8340005
+project-id = 1388531
 
 [[x-prismlauncher-dependencies]]
-addonId = '6xwxDTgf'
+addonId = '417430'
 type = 'REQUIRED'

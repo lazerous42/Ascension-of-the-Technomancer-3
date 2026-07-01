@@ -5,14 +5,14 @@ x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20.1-1.7.0-Forge'
+x-prismlauncher-version-number = "Oh The Trees You'll Grow-Forge-1.20.1-1.7.0"
 
 [download]
-hash = '8012ab4a89ee05038bebae17b8ed26b436b402c00d1d6e40f5e74f4272477159d155a61d56d6326a047b4cbf585d0afaf1484eafdf76265939b0206986e73f54'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/g8NOG5OR/versions/AAp1NdQX/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar'
+hash = 'd110dd6c11216d44e704862db8c107f83eda79fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'g8NOG5OR'
-version = 'AAp1NdQX'
+[update.curseforge]
+file-id = 8282239
+project-id = 962544
