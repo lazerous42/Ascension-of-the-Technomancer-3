@@ -118,6 +118,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.block_factorys_bosses.dodge_roll:key.keyboard.z
 key_key.botania_corporea_request:key.keyboard.c
@@ -127,6 +128,8 @@ key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_tombstone.message.knowledge_of_death:key.keyboard.unknown
 key_tombstone.message.config:key.keyboard.unknown
 key_tombstone.message.compendium:key.keyboard.unknown
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_pneumaticcraft.armor.options:key.keyboard.u
 key_pneumaticcraft.helmet.hack:key.keyboard.h
@@ -188,11 +191,11 @@ key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.right.bracket
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.dragnlivestock.horse_speed_up:key.keyboard.left.control
 key_key.dragnlivestock.horse_slow_down:key.keyboard.left.alt
 key_key.dragnlivestock.horse_bow:key.keyboard.b
@@ -208,6 +211,8 @@ key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.helmet_ability:key.keyboard.c
 key_key.cataclysm.chestplate_ability:key.keyboard.y
 key_key.cataclysm.boots_ability:key.keyboard.v
+key_key.revelationfix.curios_skill:key.keyboard.k
+key_key.revelationfix.armor_skill:key.keyboard.n
 key_key.legendarysurvivaloverhaul.added_desc:key.keyboard.left.shift
 key_key.legendarysurvivaloverhaul.body_health:key.keyboard.h
 key_key.curios.open.desc:key.keyboard.g
@@ -375,7 +380,7 @@ key_pneumaticcraft.armor.upgrade.block_tracker.module.hackables:key.keyboard.unk
 key_pneumaticcraft.armor.upgrade.scuba:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.builder_mode:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.end_portal:key.keyboard.unknown
-soundCategory_master:0.2590353375619588
+soundCategory_master:0.10336057282535457
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

@@ -1,0 +1,13 @@
+name = "Ascension of the Technomancer 3"
+author = "Lazerous42"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "94f5b8cea231eadb92d70b582639b011b503f763eb752baa459b9de969b5d9c6"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
