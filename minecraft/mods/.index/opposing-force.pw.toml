@@ -1,0 +1,18 @@
+filename = 'Opposing-Force-1.20.1-2.0.3.jar'
+name = 'Opposing Force'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Opposing-Force-1.20.1-2.0.3.jar'
+
+[download]
+hash = 'a8e4cd1493699cde7dde4a7e8ed427ca094df469'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7888374
+project-id = 1051360
