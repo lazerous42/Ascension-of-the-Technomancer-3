@@ -1,0 +1,21 @@
+filename = 'KeyBindJS-2001-2.3.0.jar'
+name = 'KeyBindJS'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KeyBindJS-2001-2.3.0.jar'
+
+[download]
+hash = '4491e242f462499cf05d07f6f99ad1c8f2303615'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6831233
+project-id = 1212200
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

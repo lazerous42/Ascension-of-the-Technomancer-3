@@ -1,0 +1,18 @@
+filename = 'HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7c.jar'
+name = 'Hopo Better Ruined Portals'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'HopoBRP-[1.20-1.20.2]-1.3.7c'
+
+[download]
+hash = '73fc57472fea0195c55401f87cfff92b9a899f21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7628972
+project-id = 632624
