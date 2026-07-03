@@ -190,6 +190,9 @@
 			dryophyllum = true
 			metasequoia = true
 
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
 	[types.cake]
 
 		[types.cake.thermal]
@@ -216,6 +219,9 @@
 			torchberry_cake = true
 			phytochemical_cake = true
 			glacier_cake = true
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
 
 	[types.leaves_type]
 

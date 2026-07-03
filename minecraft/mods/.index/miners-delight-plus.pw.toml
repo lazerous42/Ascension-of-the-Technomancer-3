@@ -1,0 +1,21 @@
+filename = 'miners_delight-1.20.1-1.4.5-backport.jar'
+name = "Miner's Delight +"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'miners_delight-1.20.1-1.4.5-backport.jar'
+
+[download]
+hash = '638438679800711939e7a8029ae3d5340f8c17bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8154984
+project-id = 689630
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

@@ -7,39 +7,39 @@
 	"Replace Spawn Egg Vanilla Animals" = false
 	#Percent of O-Animals that should be removed on-spawn. Higher the number = more O-Animals removed. Default is 0.3 (30%)
 	#This may help lower-end servers or computers run LO a little better if set to a higher value, since not as many animals will spawn. Only affects common farm animals (since they spawn most often) and does not affect anything vanilla or from other mods.
-	"Spawn Rate Prevention Percent" = 0.3
+	"Spawn Rate Prevention Percent" = 1.0
 	#Should horses be replaced by O-Horses?
-	"Replace Horses" = true
+	"Replace Horses" = false
 	#Should mules be replaced by O-Mules?
-	"Replace Mules" = true
+	"Replace Mules" = false
 	#Should donkeys be replaced by O-Donkeys?
-	"Replace Donkeys" = true
+	"Replace Donkeys" = false
 	#Should cows be replaced by O-Cows?
-	"Replace Cows" = true
+	"Replace Cows" = false
 	#Should chickens be replaced by O-Chickens?
-	"Replace Chickens" = true
+	"Replace Chickens" = false
 	#Should sheep be replaced by O-Sheep?
-	"Replace Sheep" = true
+	"Replace Sheep" = false
 	#Should pigs be replaced by O-Pigs?
-	"Replace Pigs" = true
+	"Replace Pigs" = false
 	#Should llamas be replaced by O-Llamas?
-	"Replace Llamas" = true
+	"Replace Llamas" = false
 	#Should rabbits be replaced by O-Rabbits?
-	"Replace Rabbits" = true
+	"Replace Rabbits" = false
 	#Should  be replaced by O-Salmon?
-	"Replace Salmon" = true
+	"Replace Salmon" = false
 	#Should cod be replaced by O-Cod?
-	"Replace Cod" = true
+	"Replace Cod" = false
 	#Should bees be replaced by O-Bees?
-	"Replace Bees" = true
+	"Replace Bees" = false
 	#Should camels be replaced by O-Camels?
-	"Replace Camels" = true
+	"Replace Camels" = false
 	#Should goats be replaced by O-Goats?
-	"Replace Goats" = true
+	"Replace Goats" = false
 	#Should frogs be replaced by O-Frogs?
-	"Replace Frogs" = true
+	"Replace Frogs" = false
 	#Should undead horses be replaced by O-Undead Horses?
-	"Replace Undead Horses" = true
+	"Replace Undead Horses" = false
 	#Should Mooblooms have a chance to spawn alongside O-Cows?
 	"Spawn Mooblooms" = true
 	#Should Unicorns have a chance to spawn in unique situations?
@@ -102,10 +102,8 @@
 	"Llama Herd Maximum" = 3
 
 [QoL]
-	#Should O-Animals use vanilla names instead of those with the "O-" prefix?
-	"Use Vanilla Animal Names" = false
 	#Should O-Animals use vanilla loot instead of the loot included in the mod?
-	"Use Vanilla Animal Loot" = false
+	"Use Vanilla Animal Loot" = true
 	#Should O-Horses be able to spawn with any breed naturally? Default is Mustangs only.
 	"Naturally Spawning O-Horse Breeds" = false
 	#Base time an O-Horse can run for at full speed, in seconds. Default is 45s.
@@ -120,10 +118,6 @@
 	"Horse Hair Growth Progression" = true
 	#Amount of time, in ticks, it takes for a horse's mane or tail to grow to the next stage. Default is 72000 (3 ingame days).
 	"Horse Hair Growth Time" = 72000
-	#Should rabbits produce Rabbit Poop at a certain interval?
-	"Allow Rabbit Poop" = true
-	#Amount of time, in ticks, it takes for a rabbit to poop. Default is 24000 (1 ingame day).
-	"Rabbit Poop Time" = 24000
 	#Should O-Animals' colors, markings, and other genetic attributes depend on their breed and gender, along with their breed depending on the biome?
 	"Spawn By Breed & Biome" = true
 	#Should O-Animals' eye colors, if applicable, depend on their coat/ coloring?
@@ -143,16 +137,22 @@
 	"Creative-Only Snipping" = false
 	#Should some farm animals, such as O-Cows, have a Quality rating that affects how much they drop?
 	"Quality Rating" = true
+	#Should debug logs run? This will spam the console with logs, so it's best turned off unless you're a dev or testing on your server temporarily.
+	"Debug Logs On [DEV]" = false
+	#Should O-Animals use vanilla names instead of those with the "O-" prefix?
+	"Use Vanilla Animal Names" = false
+	#Should rabbits produce Rabbit Poop at a certain interval?
+	"Allow Rabbit Poop" = true
+	#Amount of time, in ticks, it takes for a rabbit to poop. Default is 24000 (1 ingame day).
+	"Rabbit Poop Time" = 24000
 	#How long, in ticks, a Male O-Animal's breeding cooldown takes. If Genders Affect Breeding is disabled, this does nothing. Default is 1200 (1 minute). Vanilla is 6000 (5 minutes).
 	"Male Breeding Cooldown" = 1200
 	#How long, in ticks, a Female O-Animal's breeding cooldown takes. If Genders Affect Breeding is disabled, this applies to all O-Animals. Default is 6000 (5 minutes).
 	"Female/ Neutral Breeding Cooldown" = 6000
-	#Should debug logs run? This will spam the console with logs, so it's best turned off unless you're a dev or testing on your server temporarily.
-	"Debug Logs On [DEV]" = false
 
 [Miscellaneous]
 	#Should Unicorns be able to breed?
-	"Allow Unicorn Breeding" = false
+	"Allow Unicorn Breeding" = true
 	#Should O-Horses have a small chance to turn Undead upon death?
 	"Occasional Horse Turns Undead" = true
 	#Chance of an O-Horse turning undead after dying to a natural cause. Default is 0.03 (3%).
