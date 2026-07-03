@@ -140,6 +140,11 @@
   "aether_redux": {
     "logicator": true
   },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
   "twilightforest": {
     "quest_ram_wool": true
   },
