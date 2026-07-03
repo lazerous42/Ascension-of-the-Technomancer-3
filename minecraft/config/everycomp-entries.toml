@@ -193,6 +193,10 @@
 		[types.wood_type.dungeonsdelight]
 			wormwood = true
 
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
 	[types.cake]
 
 		[types.cake.thermal]

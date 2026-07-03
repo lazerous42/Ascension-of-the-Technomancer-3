@@ -1,0 +1,29 @@
+filename = 'minecraft-comes-alive-7.6.26+1.20.1-universal.jar'
+name = 'MCA Reborn [Fabric/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Universal 1.20.1] MCA Reborn - 7.6.26'
+
+[download]
+hash = 'ee5900137b6b54487276ea0e45f6d564e408af53'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8315977
+project-id = 535291
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '634179'
+type = 'OPTIONAL'
