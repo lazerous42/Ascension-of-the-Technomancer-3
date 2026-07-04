@@ -1,0 +1,18 @@
+filename = 'ToroHealth-Unofficial-Forge-1.20.1-1.0.0.jar'
+name = 'ToroHealth Unofficial'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ToroHealth-Unofficial-Forge-1.20.1-1.0.0.jar'
+
+[download]
+hash = '8cc75d02123ad3af86e501d5509723c95e762a6f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4831219
+project-id = 931345

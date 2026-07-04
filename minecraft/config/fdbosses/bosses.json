@@ -5,7 +5,7 @@
     "^tombstone:grave_simple$"
   ],
   "_comment_bossesDespawn": "Should bosses despawn if no target is found",
-  "bossesDespawn": false,
+  "bossesDespawn": true,
   "peacefulDifficultyBossDamageMuliplier": 0.5,
   "easyDifficultyBossDamageMultiplier": 0.75,
   "normalDifficultyBossDamageMultiplier": 1.0,
