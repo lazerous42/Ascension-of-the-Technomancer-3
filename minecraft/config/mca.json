@@ -140,12 +140,12 @@
     "minecraft:grass_block",
     "minecraft:dirt"
   ],
-  "launchIntoDestiny": true,
+  "launchIntoDestiny": false,
   "allowDestinyCommandOnce": true,
   "allowDestinyCommandMoreThanOnce": false,
   "allowDestinyTeleportation": true,
   "enablePlayerShaders": true,
-  "enableVillagerPlayerModel": true,
+  "enableVillagerPlayerModel": false,
   "forceVillagerPlayerModel": false,
   "allowLimitedPlayerEditor": true,
   "allowFullPlayerEditor": false,
@@ -228,14 +228,7 @@
   "allowBodyCustomizationInDestiny": true,
   "allowTraitCustomizationInDestiny": true,
   "destinySpawnLocations": [
-    "somewhere",
-    "minecraft:shipwreck_beached",
-    "minecraft:village_desert",
-    "minecraft:village_taiga",
-    "minecraft:village_snowy",
-    "minecraft:village_plains",
-    "minecraft:village_savanna",
-    "minecraft:ancient_city"
+    "somewhere"
   ],
   "destinyLocationsToTranslationMap": {
     "default": "destiny.story.travelling",
