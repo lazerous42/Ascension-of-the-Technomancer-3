@@ -1,0 +1,18 @@
+filename = 'milkablecreepers-0.1-1.20.1.jar'
+name = 'Milkable Creepers'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'milkablecreepers-0.1-1.20.1.jar'
+
+[download]
+hash = '36434a6a3301741c5f56727948070f6eb4eb9007'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6550831
+project-id = 1269849
