@@ -1,0 +1,18 @@
+filename = 'catjammies-1.20.1-1.6.2.jar'
+name = 'Cat Jammies'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'catjammies-1.20.1-1.6.2.jar'
+
+[download]
+hash = '0582d2d41b42c75cb5806ef8152b950873d8e508'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4826351
+project-id = 430906
