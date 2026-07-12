@@ -81,9 +81,6 @@
     "camo": true,
     "semiblock": true
   },
-  "immersiveengineering": {
-    "multiblock_icon": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -91,10 +88,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "expatternprovider": {
-    "jade_chamber": true,
-    "jade_wireless": true
   },
   "apotheosis": {
     "adventure": true,
@@ -124,6 +117,13 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
   },
   "ars_nouveau": {
     "mob_jar": true
